@@ -1,1 +1,1 @@
-print ("hello world and karthik11")
+print ("hello world and kar")
